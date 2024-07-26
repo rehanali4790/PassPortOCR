@@ -66,3 +66,5 @@ The OCR capabilities of this application are not limited to passports. The under
 * This versatility makes the application a powerful tool for numerous text recognition and data extraction tasks across different domains.
 
 For any queries or further assistance, please contact at rehanalikhan4790@gmail.com.
+
+for demo video please visit this link https://www.linkedin.com/posts/rehan-ali-6a725924a_ocr-machinelearning-dataextraction-activity-7217439911614783489-wF2L?utm_source=share&utm_medium=member_desktop
